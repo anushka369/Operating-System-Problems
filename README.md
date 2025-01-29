@@ -52,9 +52,19 @@ To use the solutions in this repository:
 
 ## Contributing 🫂
 
-Feel free to contribute by submitting issues, creating pull requests, or suggesting improvements to the solutions!
+This is a personal learning project, but submitting issues and suggestions are welcome! 
+<br> If you find any improvements, feel free to create a pull request. To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature/bug fix.
+
+3. Commit your changes and submit a pull request.
 
 ---
 
 ## Authors 🩰
-_Anushka Banerjee_
+Developed by **Anushka**. <br>
+📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
+
+---
