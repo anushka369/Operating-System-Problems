@@ -50,7 +50,7 @@ To use the solutions in this repository:
 
 ---
 
-## Contributing 🫂
+## Contributions 🫂
 
 This is a personal learning project, but submitting issues and suggestions are welcome! 
 <br> If you find any improvements, feel free to create a pull request. To contribute:
